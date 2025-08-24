@@ -37,6 +37,7 @@ By providing a reproducible codebase and structured evaluation pipeline, this pr
 
 - Jupyter Notebooks
 
+```
 📂 Repository Structure
 Comparative-Analysis-ChatGPT-vs-BERT/
 │
@@ -51,7 +52,7 @@ Comparative-Analysis-ChatGPT-vs-BERT/
 ├── requirements.txt     # Dependencies
 ├── README.md            # Project documentation (this file)
 └── LICENSE              # License file
-
+```
 📊 Evaluation Metrics
 
 Models will be compared using:
